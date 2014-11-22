@@ -49,6 +49,7 @@ section {
 .v-center {
     /*padding-top:10%;*/
     font-size:70px;
+    padding-bottom: 40px;
 }
   
 .well {
@@ -125,9 +126,9 @@ width: 246px;
 
 .myButton {
     background-color:#373248;
-    -moz-border-radius:28px;
-    -webkit-border-radius:28px;
-    border-radius:28px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
     /*border:1px solid #18ab29;*/
     display:inline-block;
     cursor:pointer;
@@ -136,7 +137,7 @@ width: 246px;
     font-size:20px;
     padding:16px 31px;
     text-decoration:none;
-    text-shadow:0px 1px 0px #2f6627;
+    text-shadow:0px 0px 0px #24202f;
     margin-top: 40px;
 }
 .myButton:hover {
@@ -161,6 +162,17 @@ width: 246px;
 }
 h3 {
     font-size: 30px;
+}
+.iconimg {
+    display: inline-block;
+    padding: 20px;
+}
+#section2 p {
+    font-size: 18px;
+}
+.theninja {
+    font-size: 14px;
+    color: #373248;
 }
 
 
