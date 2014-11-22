@@ -124,7 +124,7 @@ width: 246px;
 
 
 .myButton {
-    background-color:#923360;
+    background-color:#373248;
     -moz-border-radius:28px;
     -webkit-border-radius:28px;
     border-radius:28px;
@@ -140,7 +140,7 @@ width: 246px;
     margin-top: 40px;
 }
 .myButton:hover {
-    background-color:#74c24a;
+    background-color:#923260;
 }
 .myButton:active {
     position:relative;
