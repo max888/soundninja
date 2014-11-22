@@ -13,6 +13,7 @@ html,body {
 	height:100%;
     background:center no-repeat fixed url('/assets/example/bg_suburb.jpg');
     background-size: cover;
+    font-size: 16px;
 }
 
 .icon-bar {
@@ -158,4 +159,12 @@ width: 246px;
     font-size: 46px;
     margin-bottom: 44px;
 }
+h3 {
+    font-size: 30px;
+}
+
+
+
+
+
 
