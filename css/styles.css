@@ -123,11 +123,11 @@ width: 213px;
 
 
 .myButton {
-    background-color:#e01287;
+    background-color:#923360;
     -moz-border-radius:28px;
     -webkit-border-radius:28px;
     border-radius:28px;
-    border:1px solid #18ab29;
+    /*border:1px solid #18ab29;*/
     display:inline-block;
     cursor:pointer;
     color:#ffffff;
@@ -153,3 +153,9 @@ width: 213px;
 #section0 {
     background-color: #f7da99;
 }
+
+#section3 h1 {
+    font-size: 46px;
+    margin-bottom: 44px;
+}
+
