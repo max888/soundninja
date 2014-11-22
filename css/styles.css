@@ -60,12 +60,12 @@ a.list-group-item.active,[class*='-info'] {
 }
   
 #section1 {
-	background-color: #168ccc;
-    color:#dedeff;
+	background-color: #373248;
+    color: white;
 }
   
 #section2 {
-	background-color: #e5e5ef;
+	background-color: #f7da99;
     color:#686868;
 }
   
@@ -84,7 +84,7 @@ a.list-group-item.active,[class*='-info'] {
 }
 
 #section7 {
-    background-color: #f7da99;
+    background-color: #923260;
 }
 
 #section6 {
