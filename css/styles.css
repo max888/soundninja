@@ -92,6 +92,13 @@ a.list-group-item.active,[class*='-info'] {
     margin-right: 15px;
 }
 
+@media (max-width: 1024px) {
+  .GSB-logo {
+    display: block;
+    margin: 0 auto 10px;
+  }
+}
+
 .GSB-intro {
     color: #37304b;
     font-size: 17px;
@@ -148,6 +155,15 @@ a.list-group-item.active,[class*='-info'] {
 #section6 {
 	background-color: #168ccc;
     color:#ddd;
+}
+
+#section8 {
+    background-color: #37304b;
+    color:#fff;
+}
+
+#section8 h3 {
+    padding-bottom: 30px;
 }
 
 footer {
