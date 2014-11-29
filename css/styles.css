@@ -88,6 +88,35 @@ a.list-group-item.active,[class*='-info'] {
     color:#fff;
 }
 
+.GSB-logo {
+    margin-right: 15px;
+}
+
+.GSB-intro {
+    color: #37304b;
+    font-size: 17px;
+    margin: 0;
+    vertical-align: bottom;
+}
+
+.GSB-intro strong {}
+
+.GSB-intro:hover {
+    color: #fafafa;
+    text-decoration: none;
+}
+
+.GSB-highlight {
+    color: #fff;
+    font-weight: 700;
+    vertical-align: bottom;
+}
+
+#sectionGSB {
+    background-color: #00D0A7;
+    padding-bottom: 30px;
+}
+
 #section1 {
 	background-color: #37304b;
     color: white;
